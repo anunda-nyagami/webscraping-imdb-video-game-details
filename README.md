@@ -3,7 +3,7 @@
 ![image](img/ryan-quintal-Rt0fXXXvf4w-unsplash.jpg)
 Photo by <a href="https://unsplash.com/@ryanquintal?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ryan Quintal</a> on <a href="https://unsplash.com/s/photos/video-games?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
-<p>The details obtained for the games include:</p>  
+<p>The data obtained from the games include:</p>  
 <ul>
 <li>Game title</li>
 <li>Launch year</li>
