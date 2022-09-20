@@ -13,3 +13,5 @@ Photo by <a href="https://unsplash.com/@ryanquintal?utm_source=unsplash&utm_medi
 <li>Director</li>
 <li>Game description or plot</li>
 </ul>
+
+[Let's begin](web-scraping-video-game-ratings-on-imdb.ipynb)
