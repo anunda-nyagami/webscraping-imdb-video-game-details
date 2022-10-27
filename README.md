@@ -14,6 +14,7 @@ Photo by <a href="https://unsplash.com/@ryanquintal?utm_source=unsplash&utm_medi
 <li>Director</li>
 <li>Game description or plot</li>
 </ul>
+
 The notebook was originally done in my [kaggle notebook](https://www.kaggle.com/code/nyagami/web-scraping-video-game-ratings-on-imdb) and exported to github.
 
 [Let's begin](web-scraping-video-game-ratings-on-imdb.ipynb)
